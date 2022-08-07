@@ -1,0 +1,10 @@
+nav {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background: #e3e3e3;
+}
+
+#navOptions {
+    display: flex;
+    gap: 5rem;
+}
